@@ -16,17 +16,20 @@ Aprendizagem
 |✔️callback|📃 função que chama outra função|
 |✔️eventos|📃 click, onload, mouse, keyDown e keyUp|
 
-confira o resultado do projeto no link abaixo <br>
+
+
+#### Finalidade:<br> 
+- fazer uma lista de tarefas criada pelo usuário.
+- receber o input feito pelo usuário.
+- devolver o input em formato de lista.
+#### Ações:<br>
+- adicionar tarefa.
+- marcar de desmarcar uma tarefa.
+- excluir tarefa.
+<br>
+
+## confira o resultado do projeto no link abaixo <br>
 https://riquecelo.github.io/Registrar-Tarefa/
 
-
-Finalidade: 
-fazer uma lista de tarefas criada pelo usuário.
-receber o input feito pelo usuário
-devolver o input em formato de lista 
-ações:
-adicionar tarefa
-marcar de desmarcar uma tarefa
-excluir tarefa
 ##
 ![](https://github.com/Riquecelo/Registrar-Tarefa/blob/main/gif/tarefaComJS.gif)
