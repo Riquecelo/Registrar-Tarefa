@@ -3,7 +3,7 @@
 
 Projeto final do curso básico de JavaScript do canal Hora de Codar. O projeto aplica vários conceitos abordados durente o curso.<br>
 
-Aprendizagem
+#### Aprendizagem
 |Conceitos:computer:|![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>|
 |---------|--------
 |✔️variáveis|📃 var, let e const|
@@ -28,8 +28,9 @@ Aprendizagem
 - excluir tarefa.
 <br>
 
-## confira o resultado do projeto no link abaixo <br>
-https://riquecelo.github.io/Registrar-Tarefa/
+## confira o resultado do projeto no botão abaixo <br>
+![https://riquecelo.github.io/Registrar-Tarefa/]( https://img.shields.io/badge/%F0%9F%91%89-AQUI-orange?style=for-the-badge)
+
 
 ##
 ![](https://github.com/Riquecelo/Registrar-Tarefa/blob/main/gif/tarefaComJS.gif)
