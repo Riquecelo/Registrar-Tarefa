@@ -28,7 +28,7 @@ Projeto final do curso básico de JavaScript do canal Hora de Codar. O projeto a
 - excluir tarefa.
 <br>
 
-## Confira o resultado do projeto no botão abaixo <br>
+## Confira o resultado do projeto clicando no botão abaixo <br>
 ![https://riquecelo.github.io/Registrar-Tarefa/]( https://img.shields.io/badge/%F0%9F%91%89-AQUI-orange?style=for-the-badge)
 
 
